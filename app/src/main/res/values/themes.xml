@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyRecyclerVew" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#1D2B53</item>
+    </style>
+
+    <style name="Theme.MyRecyclerVew" parent="Base.Theme.MyRecyclerVew" />
+
+    <style name="NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

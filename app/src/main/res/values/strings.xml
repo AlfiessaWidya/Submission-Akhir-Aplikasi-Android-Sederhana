@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">MyRecyclerVew</string>
+
+    <string name="film_name">Nama Film</string>
+    <string name="desc">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="hai">Hai !</string>
+    <string name="about_name">Alfiessa Widya Wirawan</string>
+    <string name="about_address">Cilacap</string>
+    <string name="about_email">alfiessam.widya@gmail.com</string>
+    <string name="see_sinopsis">Lihat Sinopsis</string>
+    <string name="year_released">Tahun Rilis</string>
+    <string name="rating">Rating</string>
+    <string name="tv_detail_head_sinopsis">Sinopsis</string>
+    <string name="share">Share</string>
+    <string name="tv_detail_head_pemeran">Pemeran</string>
+    <string name="actor">Pemeran</string>
+
+    <string-array name="data_name">
+        <item>Agak Laen</item>
+        <item>The Nun II</item>
+        <item>Avatar: The Way of Water</item>
+        <item>Black Panther: Wakanda Forever</item>
+        <item>Ancika: Dia yang Bersamaku 1995</item>
+        <item>The Little Mermaid</item>
+        <item>Siksa Neraka</item>
+        <item>The Super Mario Bros. Movie</item>
+        <item>Fast X</item>
+        <item>Meg 2: The Trench</item>
+        <item>Transformers: Rise of the Beasts</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Empat petugas rumah hantu bernama Boris, Jegel, Bene, dan Oki. Dikisahkan bahwa keempatnya bertugas sebagai hantu yang menakut-nakuti pengunjung rumah hantu yang ada di sebuah pasar malam. Namun, alih-alih menyeramkan dan membuat para pengunjung terkesan, rumah hantu tersebut justru sama sekali tidak menunjukkan kesan yang seram. Bahkan hantu-hantu di dalamnya pun tidak berhasil membuat pengunjung terkejut maupun ketakutan. Situasi tersebut membuat pihak pengelola wahana mencoba sebisa mungkin untuk menghadirkan wahana rumah hantu yang menyeramkan.</item>
+        <item>Pada tahun 1956, setelah kejadian-kejadian di Biara Santa Cartha, Suster Irene sekarang melayani biara di Prancis. Maurice bekerja di sebuah sekolah asrama, di mana dia berteman dengan seorang siswa muda Irlandia bernama Sophie dan guru serta ibunya, Kate. Irene dikirim oleh Kardinal untuk menyelidiki serangkaian kematian di seluruh Eropa, yang dikaitkan dengan setan Valak, dKarena pengalamannya sebelumnya dengan iblis. Dia melakukan perjalanan ke Tarascon dengan Suster Debra, seorang pemula</item>
+        <item>Jake Sully (Sam Worthington) tinggal bersama keluarga barunya di planet Pandora. Setelah ancaman muncul kembali untuk menyelesaikan apa yang sebelumnya dimulai, Jake harus bekerja sama dengan Neytiri (Zoe Saldaña) dan pasukan suku Navi untuk melindungi rumah mereka. Ia berkelana menuju rumah Laila P. K. yang ternyata adalah bangsa asli Navi</item>
+        <item>TChalla, raja Wakanda, meninggal karena penyakit yang diyakini saudara perempuannya Shuri dapat disembuhkan dengan "ramuan berbentuk hati". Shuri tidak berhasil mencoba membuat ulang ramuan secara sintetis setelah dihancurkan oleh Killmonger.</item>
+        <item>Dikisahkan tentang persahabatan dan jalin hubungan antara Dilan dan Ancika Mehrunisa Rabu. Hubungan mereka yang semakin erat membuat benih-benih cinta tumbuh dan hubungan mereka pun menanjak hingga ke jenjang kekasih. Di tahun 1995, Dilan si mantan panglima geng motor jatuh cinta pada Ancika, perempuan yang sangat membenci geng motor. Sudah begitu, Ancika juga tidak suka berpacaran, dan jelas, tidak suka Dilan. Jadilah Dilan harus mencari cara untuk menaklukan perempuan yang jauh berbeda dengan Milea, si mantan. Selisih usia dan lingkungan membuat usaha Dilan berlipat ganda, apalagi di balik sikap dewasa yang nggak sesuai usianya, Ancika itu cemburuan. Makin berat perjuangan Dilan.</item>
+        <item>Ariel adalah putri duyung dan putri bungsu Raja Triton, penguasa manusia duyung Atlantica. Dia terpesona dengan dunia manusia meskipun belum pernah melihatnya, karena Triton melarang semua duyung muncul ke permukaan setelah ibu Ariel dibunuh oleh manusia. Ariel mengumpulkan benda-benda manusia dengan dukungan sahabatnya, Flounder, seekor ikan asan, dan Scuttle, seekor dendang-laut utara.</item>
+        <item>Siksa Neraka menceritakan kisah orang-orang yang mendapatkan balasan penyiksaan di akhirat karena telah berperilaku buruk selama dirinya hidup di dunia. Pada akhirnya, dosa-dosa yang mereka tumpuk dan abaikan akan menjadi bumerang bagi mereka di neraka. Dalam neraka yang panas, berbagai jenis penyiksaan akan diterapkan pada orang-orang yang memiliki berbagai sifat dan keburukan. Sesuai dengan dosa mereka, mereka akan menerima tingkat penyiksaan yang berbeda.</item>
+        <item>Italian-American brothers Mario and Luigi have recently opened a plumbing business in Brooklyn, to the derision of their ex-employer Spike and the disapproval of their father. After seeing a significant water main leak on the news, Mario and Luigi go underground to fix it but are sucked into a Warp Pipe and separated.</item>
+        <item>Setelah menghadapi cipher pada seri sebelumnya, Dom dan rekan nya hidup dengan damai, namun bahaya kembali mengancam Dom dan kru nya ketika Dante Reyes, anak dari Hernan Reyes (musuh di Fast Five) memutuskan untuk membalas dendam terhadap Dom, sekali lagi, Dominic dan kru nya harus kembali menghadapi musuh berbahaya untuk melindungi keluarga yang dicintainya</item>
+        <item>Lima tahun setelah peristiwa film pertama, Jonas Taylor telah terlibat dalam pertempuran kejahatan lingkungan sekaligus membantu Mana One dalam menjelajahi bagian yang lebih dalam dari Palung Mariana di mana Megalodon ditemukan. Setelah kematian Suyin Zhang, Taylor membesarkan putrinya yang masih remaja, Meiying, bersama pamannya dan saudara laki-laki Suyin, Jiuming Zhang, yang telah mengakuisisi perusahaan ayahnya bersama dengan pemodal kaya, Hillary Driscoll. Mana One juga telah mempelajari seekor Meg betina bernama Haiqi, yang ditemukan sebagai anak anjing dan dilatih oleh Jiuming di sebuah cagar alam di Hainan. Baru-baru ini, Haiqi bertingkah tidak menentu, membuat Jonas khawatir meskipun Jiuming sangat antusias.</item>
+        <item>The planet-eating Unicron attacks the homeworld of the Maximals, an advanced race of Transformers. The Terrorcons, Unicron’s heralds led by Scourge, want the Transwarp Key which can open portals through space and time and can help Unicron consume planets faster. The Maximal leader Apelinq sacrifices himself to allow the other Maximals to escape the planet before Unicron devours it. Now under the command of Optimus Primal, the Maximals flee to Earth with the key.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/id/0/01/Poster_Agak_Laen_%282024%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/b/bc/The_Nun_II_%282023%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/5/54/Avatar_The_Way_of_Water_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/3/3b/Black_Panther_Wakanda_Forever_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/2/2b/Poster_Ancika_-_Dia_yang_Bersamaku_1995_%282024%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/f/f4/The_Little_Mermaid_%282023_film%29.png?20230508212350</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/8/89/Poster_Siksa_Neraka_%28film%29.jpg/220px-Poster_Siksa_Neraka_%28film%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/4/44/The_Super_Mario_Bros._Movie_poster.jpg/220px-The_Super_Mario_Bros._Movie_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/f/f2/Fast_X_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/1/15/Meg_2-_The_Trench_film_cover2.jpg/220px-Meg_2-_The_Trench_film_cover2.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Transformers-_Rise_of_the_Beasts.jpg/220px-Transformers-_Rise_of_the_Beasts.jpg</item>
+    </string-array>
+
+    <string-array name="data_released">
+        <item>2024</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2023</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>9,5/10</item>
+        <item>9,0/10</item>
+        <item>9,4/10</item>
+        <item>8,9/10</item>
+        <item>9,6/10</item>
+        <item>8,5/10</item>
+        <item>9,2/10</item>
+        <item>7,3/10</item>
+        <item>8,4/10</item>
+        <item>8,3/10</item>
+        <item>9,1/10</item>
+    </string-array>
+
+    <string-array name="data_actor">
+        <item>Bene Dion, Oki Rengga, Indra Jegel, Boris Bokir, Tissa Biani, Indah Permatasari, Arie Kriting, Mamat Alkatiri, Sadana Agung Sulistya, Bukie B. Mansyur, Arief Didu, Rita Matu Mona, Anggi Marito</item>
+        <item>Taissa Farmiga, Margot Bernazzi, Jonas Bloquet, Storm Reid, Anna Popplewell, Bonnie Aarons, Katelyn Rose, Suzanne Bertish, David Horovitch, Pascal Aubert, Maxime Elias-Menet</item>
+        <item>Sam Worthington, Zoe Saldaña, Sigourney, Stephen Lang, Kate Winslet, Cliff Curtis, CCH Pounder, Jamie Flatters, Britain, Chloe Coleman, Trinity Jo-Li Bliss, Bailey Bass</item>
+        <item>Letitia Wright, Lupita Nyong o, Danai Gurira, Winston Duke, Florence Kasumba, Dominique Thorne, Michaela Coel, Tenoch Huerta, Martin Freeman, Julia Louis-Dreyfus, Angela Bassett</item>
+        <item>Zee JKT48, Arbani Yasiz, Daffa Wardhana, Dito Darmawan, Ratu Rafa</item>
+        <item>Halle Bailey, Jonah Hauer-King, Daveed Diggs, Awkwafina, Jacob Tremblay, Noma Dumezweni, Javier Bardem, Melissa McCarthy</item>
+        <item>Ratu Sofya, Slamet Rahardjo, Kiesha Alvaro, Ariyo Wahab, Nayla D. Purnama, Rizky Fachrel, Astri Nurdin</item>
+        <item>Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black, Keegan-Michael Key, Seth Rogen, Fred Armisen, Sebastian Maniscalco, Charles Martinet, Kevin Michael Richardson</item>
+        <item>Vin Diesel, Michelle Rodriguez, Tyrese Gibson, Chris "Ludacris" Bridges, John Cena, Nathalie Emmanuel, Jordana Brewster, Sung Kang, Scott Eastwood, Daniela Melchior, Alan Ritchson, Helen Mirren</item>
+        <item>Jason Statham, Wu Jing, Sophia Cai, Page Kennedy, Sergio Peris-Mencheta, Skyler Samuels, Cliff Curtis</item>
+        <item>Anthony Ramos, Dominique Fishback</item>
+    </string-array>
+</resources>
